@@ -171,20 +171,6 @@ header {
     font-size: 10px;
 }
 
-.img-primer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 45%;
-}
-
-.img-primer img {
-    width: 100%;
-    max-width: 500px;
-    border-radius: 25px;
-    border: 8px solid var(--primary-color);
-}
-
 .segundo-articulo {
     width: 90%;
     margin: 0 auto;
